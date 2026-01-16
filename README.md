@@ -1,5 +1,17 @@
 Housing Price Prediction using Machine Learning
+
 Project Overview
+## Project Brief
+Housing prices are influenced by complex interactions between income levels, location, population density, and housing characteristics.  
+In this project, I built a machine learning model to predict house prices and uncover the most influential factors driving price variation.
+
+The project demonstrates my ability to:
+- Translate a real-world business problem into a data science solution
+- Apply and compare multiple machine learning models
+- Evaluate model performance using appropriate metrics
+- Convert technical results into actionable insights for decision-makers
+
+This work reflects how data science can support smarter pricing strategies, risk assessment, and policy-level housing analysis.
 
 This project focuses on building a machine learning-based pricing model to predict residential house prices using demographic, structural, and economic features.
 The goal is to demonstrate an end-to-end data science workflow: from problem formulation and data preprocessing to model selection, evaluation, and actionable insights.
